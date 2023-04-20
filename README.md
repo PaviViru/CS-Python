@@ -1,2 +1,3 @@
 # CS-Python
-this is first repository
+This is first repository
+This is first commit
